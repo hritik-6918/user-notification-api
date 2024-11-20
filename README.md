@@ -41,3 +41,6 @@ Run tests: `npm run test`
 ## Environment Variables
 
 - `MONGODB_URI`: MongoDB connection string
+
+
+![Screenshot (479)](https://github.com/user-attachments/assets/e4d436c1-c8d2-4aa1-86ed-16469408d5a7)
